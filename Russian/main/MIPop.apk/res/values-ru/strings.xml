@@ -31,8 +31,10 @@
     <string name="mipop_first_key_title">Кнопка по умолчанию</string>
     <string name="mipop_help_title">Помощь</string>
     <string name="help">ПОМОЩЬ</string>
-    <string name="help1">1.Swipe on it to stretch Mi-POP,and it will retract after 2 minutes of inactivity</string>
-    <string name="help2">2.Move it on screen by sliding it vertically, or holding &amp; sliding it</string>
-    <string name="help3">3.Tap &amp; hold it to popup options, including screen lock, power off, adjust volume,etc</string>
-    <string name="help4">4.Tap &amp; hold Back to start or close Mi-Assist instantly</string>
+    <string name="help1">1.Нажмите и немного проведите его, чтобы расскрыть все системные кнопки Mi-POP (он автоматически свернется после двух секунд)</string>
+    <string name="help2">2.Перемещайте Mi-POP в любое место дисплея удерживая пальцем и двигая в нужную точку экрана</string>
+    <string name="help3">3.Нажмите и удерживайте на месте Mi-POP, чтобы открыть меню дополнительных действий (выключение питания, перезагрузка, блокировка, скриншот, громкость, отключение звука)</string>
+    <string name="help4">4.Нажмите и удерживайте кнопку \"Назад\", чтобы запустить или закрыть Мi-Assist</string>
+    <string name="back_key">Кнопка \"Назад\"</string>
+    <string name="home_key">Кнопка \"Домой\"</string>
 </resources>
