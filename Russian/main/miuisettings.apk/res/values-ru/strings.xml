@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расширенные настройки Nubia</string>
+    <string name="hello_world">Привет</string>
+    <string name="action_settings">Настройки</string>
+    <string name="miui_settings">Расширенные настройки Nubia</string>
+    <string name="demo">демо</string>
+    <string name="test1">тест 1</string>
+    <string name="test2">тест 2</string>
+    <string name="settings">Настройки</string>
+    <string name="openmusic">Boot-звук Nubia</string>
+    <string name="open_boot">Boot-анимация Nubia</string>
+    <string name="capture_screen_title">Настройка скриншотов</string>
+    <string name="open_music">Boot-звук Nubia</string>
+    <string name="version">Nubia ExSettings V6</string>
+    <string name="versions">Инормация о версии</string>
+    <string name="version_summary">Nubia Tools | Powered by bhflower</string>
+    <string name="change_phone">Управление SIM картой</string>
+    <string name="cdma">Управление SIM картой</string>
+    <string name="change_phone_set">Изменить настройки телефона</string>
+    <string name="othersettings">Прочие настройки</string>
+    <string name="DisplaySettings">Настройки экрана</string>
+    <string name="feature">Инструменты Nubia</string>
+    <string name="feature_summary">Настройка профиля, системных клавиш, быстрых действий</string>
+    <string name="keylight">Отключение подсветки кнопок</string>
+    <string name="keyheadset">Отключение кнопок гарнитуры</string>
+    <string name="AppKill">Заморозка приложений</string>
+    <string name="SRSTruMedia">Настройка звука</string>
+    <string name="mipop">Mi-POP</string>
+    <string name="author">От автора прошивки</string>
+    <string name="updaterInformation">Посетить страницу автора</string>
+    <string name="SeeupdaterInformation">Получить информацию о последних версиях прошивки для телефона</string>
+    <string name="open_music_set">Открыть настройки звукового профиля</string>
+    <string name="capture_screen_summary">Скриншот экрана при одновременном нажатии кнопок \"Питание\" и \"Уменьшить громкость\"</string>
+    <string name="DisplaySettings_summary">Настройки автоповорота, улучшение изображения, панели уведомлений и размера шрифта</string>
+    <string name="camera_music">Отключить звук затвора камеры</string>
+    <string name="double_screen">Пробуждение телефона двойным тапом</string>
+    <string name="miui_gallery">Галерея MIUI</string>
+    <string name="miui_camera">Камера MIUI</string>
+    <string name="nubia_camera">Камера Nubia</string>
+    <string name="camera_change">Камера по умолчанию</string>
+    <string name="camera_change_tittle">Выбор камеры</string>
+    <string name="double_home">Выключение экрана двойным тапом"</string>
+    <string name="double_home_summary">Выключение экрана двойным тапом по кнопке \"HOME\"</string>
+</resources>
